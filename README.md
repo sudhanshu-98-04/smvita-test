@@ -1,1 +1,2 @@
 # smvita-test
+studing git 
